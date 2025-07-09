@@ -13,7 +13,7 @@ B-vac is an executable pipeline designed to streamline bacterial vaccine discove
 7. **Standalone Solution:** Operates without external dependencies, enhancing accessibility for researchers with limited computational resources.
 
 ## Installation
-Setup files can be downloaded from https://shorturl.at/GzvvV. 
+Setup files can be downloaded from https://mgbio.tech/tools/.
 
 **How to install - for Linux:**
 In terminal run this command after copying the deb package file in home directory:
